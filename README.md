@@ -1,6 +1,6 @@
 # Hi there, I'm Prithvi! 👋
 
-![Banner Image](github-header-banner (1).png)
+![Banner Image](1993prithvi-wq/github-header-banner (1).png)
 
 ## About Me 🚀
 
